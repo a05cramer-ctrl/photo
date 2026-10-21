@@ -2,10 +2,10 @@
 window.PHOTO_CFG = {
   NAME: "PHOTOFINISH",
   TICKER: "PHOTO",
-  CA: "",
+  CA: "5ZHdptE3fRe9VrXsTZnPjkvX1FwWbRterXqXkxCEpump",
   CHAIN: "solana",
   PAD: "pumpfun",
-  X: "",
+  X: "https://x.com/photofinishpad",
   BUY: "",
   CHART: "",
   MIN_SOL: 0.05
